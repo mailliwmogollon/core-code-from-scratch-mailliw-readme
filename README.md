@@ -1,6 +1,6 @@
 # core-code-from-scratch-mailliw-readme
 
-Week challenges (Tuesday) 💻
+Week challenges (Tuesday 19-07) 💻
 
 -create an explanation about Interpreted And Compiled Programming Languages in your README
 
@@ -30,3 +30,8 @@ Week challenges (Tuesday) 💻
   6. END
 
 -Learn about High and Low level languages
+
+Week challenges (Wednesday 20-07) 💻
+
+Your date of birth in the matrix? Decimal: 1985 Binary: 11111000001
+MIPS exercise
