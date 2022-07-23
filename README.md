@@ -40,8 +40,34 @@ Week challenges (Thursday 21-07) 💻
 
 Print special numbers exercise
 
+for (i=0;i<=100;i+=2) 
+   	document.write(i)
+
 Bad Code exercise
 
+is not comparing
+Solution 
+var cond = false;
+
+if ((cond === true)) {
+  console.log('The cond variable is true');
+} else {
+  console.log('The cond variable is false');
+}
+
 Bad Code 2 exercise
+
+Solution
+
+var n = 100;
+
+if (n == 100) {
+  console.log('This is a special number!');
+}
+
+else if (n < 1000 && n % 10 == 0 && n ≠ 100) {
+  console.log('This number is almost special');
+} else {
+  console.log('Just a regular number');
 
 Follow Git Course
