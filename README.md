@@ -35,3 +35,13 @@ Week challenges (Wednesday 20-07) 💻
 
 Your date of birth in the matrix? Decimal: 1985 Binary: 11111000001
 MIPS exercise
+
+Week challenges (Thursday 21-07) 💻
+
+Print special numbers exercise
+
+Bad Code exercise
+
+Bad Code 2 exercise
+
+Follow Git Course
