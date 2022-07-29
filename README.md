@@ -1,6 +1,6 @@
 # core-code-from-scratch-mailliw-readme
 
-Week challenges (Tuesday 19-07) 💻
+# Week challenges (Tuesday 19-07) 💻
 
 -create an explanation about Interpreted And Compiled Programming Languages in your README
 
@@ -31,12 +31,12 @@ Week challenges (Tuesday 19-07) 💻
 
 -Learn about High and Low level languages
 
-Week challenges (Wednesday 20-07) 💻
+# Week challenges (Wednesday 20-07) 💻
 
 Your date of birth in the matrix? Decimal: 1985 Binary: 11111000001
 MIPS exercise
 
-Week challenges (Thursday 21-07) 💻
+# Week challenges (Thursday 21-07) 💻
 
 Print special numbers exercise
 
@@ -72,21 +72,51 @@ else if (n < 1000 && n % 10 == 0 && n ≠ 100) {
 
 Follow Git Course
 
-Week challenges (Monday 25-7) 💻
+# Week challenges (Monday 25-7) 💻
 
 Follow the github course, you can find it here
 
 Create an account in Codewars, follow this instructions
 
-Read about: if...else
+# Read about: if...else
 
-Read about: for
+Ejecuta una sentencia si una condición específicada es evaluada como verdadera. Si la condición es evaluada como falsa, otra sentencia puede ser ejecutada.
 
-Read about: while
+if (condición1)
+   sentencia1
+else if (condición2)
+   sentencia2
+else if (condición3)
+   sentencia3
+...
+else
+   sentenciaN
 
-Read about: functions
+# Read about: for
 
-Week challenges (Tuesday 26-7) 💻
+Crea un bucle que consiste en tres expresiones opcionales, encerradas en paréntesis y separadas por puntos y comas, seguidas de una sentencia ejecutada en un bucle.
+
+for (var i = 0; i < 9; i++) {
+   n += i;
+   mifuncion(n);
+}
+
+# Read about: while
+
+Crea un bucle que ejecuta una sentencia especificada mientras cierta condición se evalúe como verdadera. Dicha condición es evaluada antes de ejecutar la sentencia
+
+n = 0;
+x = 0;
+while (n < 3) {
+  n ++;
+  x += n;
+}
+
+# Read about: functions
+
+un conjunto de instrucciones que realiza una tarea o calcula un valor, debe tomar alguna entrada y devolver una salida donde hay alguna relación obvia entre la entrada y la salida. Para usar una función, debes definirla en algún lugar del ámbito desde el que deseas llamarla.
+
+# Week challenges (Tuesday 26-7) 💻
 
 Start this HTML course
 
@@ -94,7 +124,7 @@ Multiply exercise
 
 ASCII Total exercise
 
-Week challenges (Wednesday 27-7) 💻
+# Week challenges (Wednesday 27-7) 💻
 
 Follow up with the HTML course you started on Tuesday
 
@@ -104,7 +134,7 @@ Binary Addition exercise
 
 Student's Final Grade exercise
 
-Week challenges (Thursday 28-7) 💻
+# Week challenges (Thursday 28-7) 💻
 
 Follow up with the HTML course you started on Tuesday
 
