@@ -71,3 +71,48 @@ else if (n < 1000 && n % 10 == 0 && n ≠ 100) {
   console.log('Just a regular number');
 
 Follow Git Course
+
+Week challenges (Monday 25-7) 💻
+
+Follow the github course, you can find it here
+
+Create an account in Codewars, follow this instructions
+
+Read about: if...else
+
+Read about: for
+
+Read about: while
+
+Read about: functions
+
+Week challenges (Tuesday 26-7) 💻
+
+Start this HTML course
+
+Multiply exercise
+
+ASCII Total exercise
+
+Week challenges (Wednesday 27-7) 💻
+
+Follow up with the HTML course you started on Tuesday
+
+Char From ASCII Value exercise
+
+Binary Addition exercise
+
+Student's Final Grade exercise
+
+Week challenges (Thursday 28-7) 💻
+
+Follow up with the HTML course you started on Tuesday
+
+Remove All Exclamation Marks From The End Of Sentence exercise
+
+Vowel Remover exercise
+
+Rock Paper Scissors! exercise
+
+Persistent Bugger exercise
+
