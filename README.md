@@ -302,3 +302,38 @@ function dutyFree(normPrice, discount, hol){
   return Math.floor(numBot);
   
 }
+
+# Javascript - Week 3
+
+# Week challenges (Monday 1/8) 💻
+
+Who Likes It? exercise
+
+Bit Counting exercise
+
+Your Order, Please exercise
+
+
+# Week challenges (Tuesday 2/8) 💻
+
+Simple Pig Latin exercise
+
+Counting Duplicates exercise
+
+Decode The Morse Code exercise
+
+
+# Week challenges (Wednesday 3/8) 💻
+
+Valid Parentheses exercise
+
+Convert String To Camel Case exercise
+
+Unique In Order exercise
+
+# Week challenges (Thursday 4/8) 💻
+
+Fold An Array exercise
+
+Encrypt This! exercise
+
