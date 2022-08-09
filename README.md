@@ -201,11 +201,29 @@ function finalGrade (exam, projects) {
 
 Follow up with the HTML course you started on Tuesday
 
-Remove All Exclamation Marks From The End Of Sentence exercise
+# Remove All Exclamation Marks From The End Of Sentence exercise
 
-Vowel Remover exercise
+# Vowel Remover exercise
 
-Rock Paper Scissors! exercise
+# Rock Paper Scissors! exercise
 
-Persistent Bugger exercise
+# Persistent Bugger exercise
 
+# Extra (It is not mandatory for the Readme) ⭐
+
+# Holiday VIII - Duty Free exercise
+
+function dutyFree(normPrice, discount, hol){
+
+  let numBot;
+  
+  
+  let save = normPrice * (discount/100)
+  
+  
+  numBot = hol / save; 
+  
+  
+  return Math.floor(numBot);
+  
+}
