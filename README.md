@@ -124,18 +124,26 @@ Start this HTML course
 
 # Multiply exercise
 
-function multiply(a, b) {
+
+function multiply(a, b)
+
+{
+
   return a * b;
+  
 }
 
 # ASCII Total exercise
 
+
 function uniTotal (string) {
-// total up dem unicodes!
+
   let sum = 0;
    
   for (let i = 0 , len = string.length ; i < len; i++ ) {
+  
     sum += string[i].charCodeAt()
+    
   }
   
   return sum; 
@@ -146,13 +154,26 @@ function uniTotal (string) {
 Follow up with the HTML course you started on Tuesday
 
 # Char From ASCII Value exercise
-function getChar(c){
- let getChar = String.fromCharCode(c)
- return getChar;
-}
-Binary Addition exercise
 
-Student's Final Grade exercise
+function getChar(c){
+
+ let getChar = String.fromCharCode(c)
+ 
+ return getChar;
+ 
+}
+
+# Binary Addition exercise
+
+function addBinary(a,b) {
+
+  let binary = a + b 
+  
+  return binary.toString(2);
+  
+}
+
+# Student's Final Grade exercise
 
 # Week challenges (Thursday 28-7) 💻
 
