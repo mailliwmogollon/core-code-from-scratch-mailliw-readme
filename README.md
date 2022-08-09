@@ -145,7 +145,11 @@ function uniTotal (string) {
 
 Follow up with the HTML course you started on Tuesday
 
-Char From ASCII Value exercise
+# Char From ASCII Value exercise
+function getChar(c){
+ let getChar = String.FromCharCode()
+ return getChar;
+}
 
 Binary Addition exercise
 
