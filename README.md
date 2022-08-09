@@ -229,6 +229,12 @@ function remove (string) {
 
 # Vowel Remover exercise
 
+function shortcut(string){
+
+  return string.replace(/[aeiou]/g,'')
+  
+}
+
 # Rock Paper Scissors! exercise
 
 # Persistent Bugger exercise
