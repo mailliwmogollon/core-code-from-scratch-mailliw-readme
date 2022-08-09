@@ -122,9 +122,24 @@ un conjunto de instrucciones que realiza una tarea o calcula un valor, debe toma
 
 Start this HTML course
 
-Multiply exercise
+# Multiply exercise
 
-ASCII Total exercise
+function multiply(a, b) {
+  return a * b;
+}
+
+# ASCII Total exercise
+
+function uniTotal (string) {
+// total up dem unicodes!
+  let sum = 0;
+   
+  for (let i = 0 , len = string.length ; i < len; i++ ) {
+    sum += string[i].charCodeAt()
+  }
+  
+  return sum; 
+}
 
 # Week challenges (Wednesday 27-7) 💻
 
