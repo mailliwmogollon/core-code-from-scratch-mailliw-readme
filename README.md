@@ -147,10 +147,9 @@ Follow up with the HTML course you started on Tuesday
 
 # Char From ASCII Value exercise
 function getChar(c){
- let getChar = String.FromCharCode()
+ let getChar = String.fromCharCode(c)
  return getChar;
 }
-
 Binary Addition exercise
 
 Student's Final Grade exercise
