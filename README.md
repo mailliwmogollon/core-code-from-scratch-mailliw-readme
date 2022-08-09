@@ -76,7 +76,9 @@ Follow Git Course
 
 Follow the github course, you can find it here
 
-Create an account in Codewars, follow this instructions
+# Create an account in Codewars
+
+mailliwmogollon
 
 # Read about: if...else
 
