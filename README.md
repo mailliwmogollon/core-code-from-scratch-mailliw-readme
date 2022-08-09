@@ -203,6 +203,30 @@ Follow up with the HTML course you started on Tuesday
 
 # Remove All Exclamation Marks From The End Of Sentence exercise
 
+function remove (string) {  
+
+  let fin = "";
+  
+  for (let length = string.length - 1 , i = length ; i > 0 ; i--  ) {
+  
+    
+   if (string[i] !== '!' ) {
+   
+     
+     fin = string.substring(0,i+1);
+     
+    break;
+    
+  }
+  
+    
+  }
+  
+  
+  return fin; 
+  
+}
+
 # Vowel Remover exercise
 
 # Rock Paper Scissors! exercise
